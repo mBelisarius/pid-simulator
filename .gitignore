@@ -1,0 +1,19 @@
+# IDE settings
+.idea/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Compiled source
+build/
+*.a
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.o.d
+*.py[ocd]
+*.so
+*.pyd
+*.c
